@@ -25,7 +25,7 @@
   </parent>
 
   <properties>
-    <guava.version>r07</guava.version>
+    <guava.version>r08</guava.version>
     <bundle.symbolicName>com.google.guava</bundle.symbolicName>
     <wrapped.groupId>com.google.guava</wrapped.groupId>
     <wrapped.artifactId>guava</wrapped.artifactId>
@@ -36,7 +36,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <artifactId>com.google.guava-all</artifactId>
-  <version>1.0.0.r07.w2-SNAPSHOT</version>
+  <version>1.0.0.r08.w1-SNAPSHOT</version>
 
   <name>OpenEngSB :: OSGi Wrapped Bundles :: Guava</name>
 
